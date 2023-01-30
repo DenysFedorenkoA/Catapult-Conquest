@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/<pathx>"
-  to = "<https://sensational-lokum-b9148b.netlify.app/Version.json>"
+  to = "<https://arovanaartstudio.github.io/Catapult-Conquest/Version.json>"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
